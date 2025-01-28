@@ -1,4 +1,9 @@
-<h1 style='backgroundColor:red'>Test</h1>
+<style>
+  .test{
+    background-color: red;
+  }
+</style>
+<h1 class='test'>Test</h1>
 
 <!--
 **mr-dual/mr-dual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
