@@ -1,8 +1,11 @@
-<style>
-  .test{
-    background-color: red;
-  }
-</style>
+<html>
+  <style>
+    .test {
+      background-color: red;
+    }
+  </style>
+</html>
+
 <h1 class='test'>Test</h1>
 
 <!--
