@@ -1,10 +1,4 @@
-<html>
-  <style>
-    .test {
-      background-color: red;
-    }
-  </style>
-</html>
+<link rel="stylesheet" href="style.css">
 
 <h1 class='test'>Test</h1>
 
