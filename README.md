@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 
-<h1 class='test' style='color:blue;'>Test</h1>
+<h1 class="test" style="color:blue;">Test</h1>
 
 <!--
 **mr-dual/mr-dual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
