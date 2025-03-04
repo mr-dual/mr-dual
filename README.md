@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<iframe src="https://mr-dual.github.io"></iframe>
 
 <h1 class="test" style="color:blue;">Test</h1>
 
